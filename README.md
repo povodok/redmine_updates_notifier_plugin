@@ -1,0 +1,1 @@
+# redmine_updates_notifier_plugin
